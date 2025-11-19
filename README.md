@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-- 🔭 I’m currently working on ...Developing my GitHub page, and working on an Application Development degree at North Seattle College.
 <!--
 **jamescostello480-rgb/jamescostello480-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
