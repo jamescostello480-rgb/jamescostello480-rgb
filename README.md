@@ -13,6 +13,8 @@
 
 -- ⚡ Fun fact: ...I love to paint.
 
+![FirstThreeJMC](https://github.com/user-attachments/assets/732a6bd6-af1d-47d1-af3f-ebcc78a9ad5f)
+
 <!--
 **jamescostello480-rgb/jamescostello480-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
