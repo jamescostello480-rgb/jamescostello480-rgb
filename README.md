@@ -7,6 +7,8 @@
 
 -- 🤔 I’m looking for help with ...Learning code - specifically Python and Java Script.
 
+-- 🔭 Favorite project ...Halo 3
+
 -- 💬 Ask me about ...My Career, Education, and Projects.
 
 -- 📫 How to reach me: ...jamescostello480@gmail.com
