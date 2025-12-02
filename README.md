@@ -9,7 +9,7 @@
 
 -- 🔭 Favorite project ...Halo 3
 
--- 💬 Ask me about ...My Career, Education, and Projects.
+-- 💬 Ask me about ...My Career, Education, Projects, and Industry involvement.
 
 -- 📫 How to reach me: ...jamescostello480@gmail.com
 
