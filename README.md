@@ -7,14 +7,15 @@
 
 -- 🤔 I’m looking for help with ...Learning code - specifically Python and Java Script.
 
--- 🔭 Favorite project ...Halo 3
-
 -- 💬 Ask me about ...My Career, Education, Projects, and Industry involvement.
 
 -- 📫 How to reach me: ...jamescostello480@gmail.com
 
--- ⚡ Fun fact: ...I love to paint.
+-- 🔭 Favorite project ...Halo 3
+<img width="2174" height="1277" alt="JMC_Halo3" src="https://github.com/user-attachments/assets/f7c035bb-d04c-48d4-94c7-d535af174413" />
 
+
+-- ⚡ Fun fact: ...I love to paint.
 ![FirstThreeJMC](https://github.com/user-attachments/assets/732a6bd6-af1d-47d1-af3f-ebcc78a9ad5f)
 
 <!--
